@@ -26,3 +26,6 @@ Weekly goals:
 - Week 2: Simple vision task
 - Week 3: Optimization & constraints
 - Week 4: Reflection and next decision
+
+## My Engineering Mindset
+I am more interested in understanding why a system behaves the way it does than simply making it work.
